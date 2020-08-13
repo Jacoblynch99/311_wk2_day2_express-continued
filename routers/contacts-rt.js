@@ -1,0 +1,5 @@
+router.get('/contacts')
+router.get('/contacts/:id')
+router.put('/contacts/:id')
+router.post('/contacts')
+router.delete('/contacts/:id')

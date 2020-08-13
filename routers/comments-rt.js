@@ -1,0 +1,5 @@
+router.get('/comments',  )
+router.get('/comments/:id',  )
+router.put('/comments/:id',  )
+router.post('/comments', )
+rouetr.delete('/comments/:id', )
